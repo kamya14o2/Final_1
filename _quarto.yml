@@ -19,15 +19,9 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        href: https://github.com/kamya14o2/Final_1.git
+        text: "Project Guthub"         
 
     style: "docked"
     search: true
@@ -50,7 +44,3 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-
-
-
-
