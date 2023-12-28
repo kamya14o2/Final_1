@@ -5,7 +5,7 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
+  title: "MUSA 550 Quarto"
   site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
   repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
   repo-actions: [source]
@@ -19,15 +19,9 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        href: https://github.com/MUSA-550-Fall-2023/final-project-kamya
+        text: "Project Guthub"         
 
     style: "docked"
     search: true
@@ -38,10 +32,9 @@ website:
       - about.qmd
       - section: analysis/index.qmd
         contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/2-static-images.ipynb
-          - analysis/3-altair-hvplot.ipynb
-          - analysis/4-folium.ipynb
+          - analysis/SatelliteImagery.ipynb
+          - analysis/Walkability.ipynb
+          - analysis/Conclusion.ipynb
 
 format:
   html:
@@ -51,7 +44,3 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-
-
-
-

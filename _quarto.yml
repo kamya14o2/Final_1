@@ -20,7 +20,7 @@ website:
     align: center
     tools: 
       - icon: github
-        href: https://github.com/kamya14o2/Final_1.git
+        href: https://github.com/MUSA-550-Fall-2023/final-project-kamya
         text: "Project Guthub"         
 
     style: "docked"
