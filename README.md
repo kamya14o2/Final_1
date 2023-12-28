@@ -1,7 +1,9 @@
-# Quarto website template
+# Assessing relationship between urban form and walkability in Kisumu, Kenya
 
-A template repository to use as a starting point for a public website describing
-the analysis and results the course's final project. The website uses
-Quarto to generate content and GitHub Pages to host the website.
+In Kisumu, Kenya, a port city established in 1901, I'm utilizing scikit-learn for k-means clustering with Landsat 8 imagery to analyze urban landscapes. Additionally, I'm using OSMnx for street network analysis to gauge walkability, considering aspects such as street density and access to amenities, exploring the link between urban form and walkability.
 
-The published site for this example repository is available at: [https://musa-550-fall-2023.github.io/quarto-website-template/](https://musa-550-fall-2023.github.io/quarto-website-template/).
+Data sources include ESRI World Imagery Wayback satellite data, Google Earth Engine, OSM Street Maps data and USGS Earth Explorer.
+
+This project was made by Kamya Khandelwal.
+
+The published site for this example repository is available at [this link.](https://kamya14o2.github.io/Final_1/)
