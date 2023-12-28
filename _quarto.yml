@@ -1,3 +1,4 @@
+
 project:
   type: website
   output-dir: docs
@@ -14,14 +15,18 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-Nick Hand, 2023"
 
-  sidebar:
+   sidebar:
     logo: "images/course-icon.png"
     pinned: true
     align: center
     tools: 
+      - icon: globe
+        href: https://issuu.com/kamyakhandelwal/docs/portfolio
+        text: "Portfolio"
       - icon: github
         href: https://github.com/MUSA-550-Fall-2023/final-project-kamya
-        text: "Project Guthub"         
+        text: "MUSA 550 GitHub Project" 
+       
 
     style: "docked"
     search: true
