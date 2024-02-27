@@ -5,5 +5,3 @@ In Kisumu, Kenya, a port city established in 1901, I'm utilizing scikit-learn fo
 Data sources include ESRI World Imagery Wayback satellite data, Google Earth Engine, OSM Street Maps data and USGS Earth Explorer.
 
 This project was made by Kamya Khandelwal.
-
-The published site for this repository is available at [this link.](https://kamya14o2.github.io/Final_1/)
